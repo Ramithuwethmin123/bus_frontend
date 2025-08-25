@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from '../Component/header'
 import HomeLayout from '../Layouts/HomeLayout'
 import BookingLayout from '../Layouts/BookingLayout'
 import PartnerLayout from '../Layouts/PartnerLayout'
@@ -7,6 +6,7 @@ import SubLayouts from '../Layouts/SubLayouts'
 import AboutLayout from '../Layouts/AboutLayout'
 import Footer from '../Component/Footer'
 import { Outlet } from 'react-router-dom'
+import Header from '../Component/Header'
 
 function HomePage() {
   return (
