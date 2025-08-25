@@ -1,7 +1,7 @@
 import React from 'react'
-import Header from '../Component/header'
 import AboutUsLayout from '../Layouts/AboutUsLayout'
 import Footer from '../Component/Footer'
+import Header from '../Component/Header'
 
 function AboutusPage() {
   return (
